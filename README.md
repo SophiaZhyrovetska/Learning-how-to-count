@@ -7,6 +7,7 @@
 <img src="https://i.imgur.com/bbIfZhK.png"/>
 
 ## Usage
+- Go to: [Learning how to count](https://sophiazhyrovetska.github.io/Learning-how-to-count/)
 
-[Download repository](https://github.com/lazyTurtle21/Learning-how-to-count/archive/master.zip) and open index.html file.
+- [Download repository](https://github.com/lazyTurtle21/Learning-how-to-count/archive/master.zip) and open index.html file.
 Then, go to Calculator and search for your problem. If you correctly determined classes and objects in your problem, you'll find an example solution and formula which can solve your problem.
